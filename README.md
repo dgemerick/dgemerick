@@ -1,0 +1,3 @@
+- 👋 Olá, Eu sou o Douglas Emerick - @dgemerick
+- 👀 Estou interessado em tecnologias como .NET, Angular, NodeJs e Arquitetura de Software
+- 🌱 Estou aprendendo NodeJs e melhores práticas no desenvolvimento de software
