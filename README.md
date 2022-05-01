@@ -1,3 +1,3 @@
 - 👋 Olá, Eu sou o Douglas Emerick - @dgemerick
 - 👀 Trabalho com desenvolvimento Web/WebApi utilizando .NET Core e Angular 2+
-- 🌱 Estou aprendendo e aprimorando meus conhecimentos em Arquitetura e Melhores Práticas no desenvolvimento de software
+- 🌱 Gosto muito de estudar e tenho facilidade para absorver novos conhecimentos. Atualmente tenho estudado mais sobre Clean Architecture, Event-Driven Architecture, DDD, TDD e Banco NoSQL.
